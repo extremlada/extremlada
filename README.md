@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @extremlada
 - 👀 I’m interested in Sofwater Development
-- 🌱 I’m currently learning C# .NET ASP.NET
+- 🌱 I’m currently learning C# WPF .NET
 - 💞️ I’m looking to collaborate on Anything that is in insterest of mine, i love contributing, and helping where i can
 - 📫 How to reach me you can contact me on linkedin, or via email,
 
